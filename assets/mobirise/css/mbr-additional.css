@@ -1761,11 +1761,17 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+/*jumbotron*/
 .cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/jumbotron.jpg");
+  background-image: url("../../../assets/images/bg-arid.jpg");
 }
+.overlay-bg {
+  background-color: rgba(0, 0, 0, 0.7);
+  width: 100%;
+}
+
 .cid-qZiKEjonx3 .google-map {
-  height: 35rem;
+  height: 38rem;
   position: relative;
 }
 .cid-qZiKEjonx3 .google-map iframe {
